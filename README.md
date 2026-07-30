@@ -119,7 +119,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Maintained by **[Your Name]** — feel free to reach out via [GitHub Issues](../../issues).
+Maintained by DINESH_SINGH_RATHORE — feel free to reach out via [GitHub Issues](../../issues).
 
 ---
 
